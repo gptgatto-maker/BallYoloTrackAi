@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250mm" height="178mm" viewBox="0 0 250 178">
+  <defs>
+    <pattern id="checker" x="5" y="5" width="48" height="48" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="black"/>
+      <rect x="24" y="24" width="24" height="24" fill="black"/>
+    </pattern>
+  </defs>
+  <rect width="250" height="178" fill="white"/>
+  <rect x="5" y="5" width="240" height="168" fill="url(#checker)"/>
+  <text x="5" y="177" font-family="Arial" font-size="2.5">10 x 7 squares; 9 x 6 inner corners; 24 mm squares. Print at actual size on a flat board.</text>
+</svg>

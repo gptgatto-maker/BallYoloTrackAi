@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pt
+runs/
+.runtime/
+calibration/camera*.json
+calibration/setup*.json
+calibration/plane*.json
+calibration/*.json.tmp
+*-diagnostics.csv
